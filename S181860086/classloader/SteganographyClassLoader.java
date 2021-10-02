@@ -1,4 +1,4 @@
-package example.classloader;
+package S181860086.classloader;
 
 import java.awt.image.BufferedImage;
 import java.net.URL;
